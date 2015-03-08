@@ -1,0 +1,6 @@
+C:\Users\Таня\Documents\Visual Studio 2013\Projects\Trainer\Trainer\bin\Debug\Trainer.exe.config
+C:\Users\Таня\Documents\Visual Studio 2013\Projects\Trainer\Trainer\bin\Debug\Trainer.exe
+C:\Users\Таня\Documents\Visual Studio 2013\Projects\Trainer\Trainer\bin\Debug\Trainer.pdb
+C:\Users\Таня\Documents\Visual Studio 2013\Projects\Trainer\Trainer\obj\Debug\Trainer.csprojResolveAssemblyReference.cache
+C:\Users\Таня\Documents\Visual Studio 2013\Projects\Trainer\Trainer\obj\Debug\Trainer.exe
+C:\Users\Таня\Documents\Visual Studio 2013\Projects\Trainer\Trainer\obj\Debug\Trainer.pdb
